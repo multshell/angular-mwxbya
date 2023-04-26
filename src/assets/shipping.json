@@ -10,5 +10,9 @@
   {
     "type": "Postal",
     "price": 2.99
+  },
+  {
+    "type": "Teste",
+    "price": 3.99
   }
 ]
